@@ -1,0 +1,7 @@
+2024-06-29T22:21:17.487Z info: Server is running on port 3000
+2024-06-29T22:21:54.793Z info: User registered: m@m.com
+2024-06-29T22:22:01.409Z info: User logged in: m@m.com
+2024-06-29T22:22:09.089Z warn: Forbidden access attempt by user: m@m.com
+2024-06-29T22:22:22.637Z info: Password reset email sent to m@m.com
+2024-06-29T22:22:45.686Z info: Password reset successfully for user: m@m.com
+2024-06-29T22:23:00.399Z info: User logged in: m@m.com
